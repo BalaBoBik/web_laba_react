@@ -1,0 +1,33 @@
+
+.slider{
+    display: flex;
+    height: 300px;
+    width: 100%;
+    justify-content: space-between;
+}
+.slider img{
+    max-height: 300px;
+    max-width: 80%;
+}
+.slider .left{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 120px;
+    margin-left: 10%;
+    font-size: 60px;
+    cursor: pointer;
+    border: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+.slider .right{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 120px;
+    margin-right: 10%;
+    font-size: 60px;
+    cursor: pointer;
+    border:0;
+    background-color: rgba(0, 0, 0, 0);
+}

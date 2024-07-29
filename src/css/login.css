@@ -1,0 +1,49 @@
+.login {
+    margin:0 auto;
+    max-width:500px;
+}
+.login form{
+    border:.5px solid #d9d9d9;
+    background:#fff;
+    border-radius:10px;
+    box-shadow:0px 0px 10px #000;
+    box-sizing:border-box;
+    padding-top:15px;
+    padding-bottom:20%;
+    margin:5% auto;
+    text-align:left;
+    padding-left: 10%;
+}
+.login form input{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    height: 35px; 
+    width: 80%;
+    font-size:15px;
+}
+.login form button{
+    background-color:#f26123;
+    color: #fff;
+    height: 40px;
+    width:20%;
+    font-size: 20px;
+    
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.login form a{
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000;
+    border: 3px solid #f26123;
+    border-radius: 10px;
+}
+.login form .registration_button{
+    margin-top: 15px;
+    background-color:#f26123;
+    color: #fff;
+    height: 40px;
+    width:50%;
+    font-size: 20px;
+}

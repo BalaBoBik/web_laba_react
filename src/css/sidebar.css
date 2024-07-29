@@ -1,0 +1,24 @@
+.sidebar {
+    height: 500px;
+    width: 15%;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.sidebar a{
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 15px;
+    
+}
+.sidebar a {
+    transition: 0.2s linear; /* Время изменения */
+}
+.sidebar a:hover {
+    color: #a73200; /* Цвет текста */
+    font-size: 17px;
+    margin-top: 4px;
+    margin-bottom: -1px;
+}

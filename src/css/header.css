@@ -1,0 +1,45 @@
+.header {
+    padding: 20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.logo{
+    max-width: 200px;
+    max-height: 50px;
+}
+
+.enter{
+    text-align: right;
+}
+.enter a{
+    text-decoration: none;
+    color: #06203a;
+    font-size: 20px;
+}
+.enter text{
+    margin-right: 5px;
+}
+
+.icon {
+    color: #f26123;
+    font-size: 50px;
+    background-color: #fff;
+    border-radius: 30px;
+    
+    border: 3px solid #f26123 ;
+    box-shadow: #9D370B;
+}
+.icon {
+    transition: 0.25s linear; /* Время изменения */
+}
+.icon:hover {
+    color:#f2a623;
+    border: 3px solid #f2a623  ;
+     /* Цвет текста */
+    font-size: 55px;
+    margin: -2.5px;
+}
+.icon_container{
+    display: flex;
+}

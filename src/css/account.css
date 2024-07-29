@@ -1,0 +1,41 @@
+.account{
+    margin:0 auto;
+    max-width:600px;
+}
+.account form {
+    border:.5px solid #d9d9d9;
+    background:#fff;
+    border-radius:10px;
+    box-shadow:0px 0px 10px #000;
+    box-sizing:border-box;
+    padding-top:15px;
+    padding-bottom: 25px;
+    margin:5% auto;
+    text-align:left;
+    padding: 20px;
+}
+.account form button{
+    background-color:#f26123;
+    color: #fff;
+    height: 40px;
+    width:80%;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left:10%;
+    cursor: pointer;
+}
+.account form label{
+    margin-left: 15%;
+    border: 2px solid #6c6c6c;
+    border-radius:10px;
+    padding:2px;
+    font-size: 25px;
+}
+.account form .headline{
+    
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}

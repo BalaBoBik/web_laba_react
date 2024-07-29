@@ -1,0 +1,19 @@
+.basket_product {
+    border: 1.5px solid #f26123 ;
+    padding: 10px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+.basket_product h1{
+    margin: 0;
+}
+.basket_product h2{
+    margin: 0;
+}
+.basket_product button{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}

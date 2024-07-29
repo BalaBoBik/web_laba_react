@@ -1,0 +1,22 @@
+
+.main {
+    display: flex;
+}
+
+.page{
+    width: 85%;
+    padding: 20px;
+    font-family: 'AR One Sans';
+    min-height: 150px;
+}
+.img_text_container img{
+    max-width: 25%;
+    max-height: 200px;
+    margin-right:10px;
+}
+.page .img_text_container
+{
+    display: flex;
+}
+
+
